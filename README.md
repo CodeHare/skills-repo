@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Skills Repo
 
 个人的 CodeBuddy Skills 仓库，用于统一管理和版本控制所有 Skill。
@@ -49,3 +50,6 @@ git push
 git pull
 .\scripts\sync.ps1
 ```
+=======
+# skills-repo
+>>>>>>> a5506e2b0c5e16a8fa81071852f6dd7b67b81cca
