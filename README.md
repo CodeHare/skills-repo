@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Skills Repo
 
-个人的 CodeBuddy Skills 仓库，用于统一管理和版本控制所有 Skill。
+个人的 Skills 仓库，用于统一管理和版本控制所有 Skill。
 
 ## 目录结构
 
